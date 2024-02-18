@@ -1,7 +1,7 @@
 # Bird Detection with Automatic Recording Unit (ARU)
 This repository contains code for developing an Automatic Recording Unit (ARU) using a Raspberry Pi to detect bird vocalizations. The ARU collects audio data from Intaka Island in Cape Town, manually annotates the data, and trains a model to classify future spectrograms based on the presence of bird sounds.
 
-Table of Contents
+# Table of Contents
 - Introduction
 - Installation
 - Usage
